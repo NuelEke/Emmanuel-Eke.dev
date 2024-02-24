@@ -3,6 +3,6 @@ let navbar = document.querySelector('.navbar');
 
 menu.onClick = () => {
     menu.classList.toggle('bx-x');
-    navbar.classList.toggle('open')
+    navbar.classList.toggle('open');
 };
 
